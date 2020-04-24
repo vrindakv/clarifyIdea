@@ -8,6 +8,7 @@
       "description": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": true,
       "comment": "The definition of clarify is to make something more clear or easier to understand",
+      "date": "23/04/2020",
       "images": [
         {
           "id": "1",
@@ -40,6 +41,7 @@
       "description": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false,
       "comment": "The definition of clarify is to make something more clear or easier to understand",
+      "date": "02/02/2020",
       "images": [
         {
           "id": "1",
